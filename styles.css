@@ -17,17 +17,11 @@ h1 {
 }
 
 button {
-  background: #e12d30;
-  color: white;
   border: none;
   padding: 14px 20px;
   border-radius: 8px;
   font-size: 16px;
   cursor: pointer;
-}
-
-button:hover {
-  background: #b91c1c;
 }
 
 button:disabled {
